@@ -19,7 +19,7 @@ Selected discipline:
   {"name": "Maya", "discipline": "Musician"}
 ]
 
-## Solution (Pseudocode or Any Language)
+## Solution (Python)
 profiles = [
   {"name": "Ana", "discipline": "Musician"},
   {"name":"Leo", "discipline": "Actor"},
