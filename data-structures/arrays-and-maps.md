@@ -36,7 +36,7 @@ actor: 2
 dancer: 1
 
 ## Solution (Python)
-arts = ["Musician, "Actor","Musician","Dancer","Actor]
+arts = ["Musician", "Actor","Musician","Dancer","Actor"]
 counts = {}
 
 for art in arts:
