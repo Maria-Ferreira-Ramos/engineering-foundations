@@ -3,7 +3,7 @@
 ## Overview
 This document describes how a user logs into the app using email and password.
 
-## Artists
+## Login basics
 - User
 - iOS App
 - Firebase Authentication
